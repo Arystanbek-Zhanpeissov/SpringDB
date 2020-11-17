@@ -1,0 +1,1 @@
+Insert into roles(id, name) values (nextval('role_sequence'), 'ROLE_USER');
